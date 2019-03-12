@@ -3,7 +3,8 @@
 *.numbers
 data/shapefiles/geodatabase/*
 !data/shapefiles/geodatabase/README.md
-!data/shapefiles/geodatabase/2018/.gitinclude
+data/shapefiles/geodatabase/2018/*
+!data/shapefiles/geodatabase/2018/gitinclude
 data/state-elections/governors/*
 !data/state-elections/governors/scrape.py
 data/state-elections/legislatures/old/*
