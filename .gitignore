@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+.DS_Store
+*.numbers
+*.pkl
+data/shapefiles/*
+!data/shapefiles/README.md
+data/state-elections/governors/*
+!data/state-elections/governors/scrape.py
+data/state-elections/legislatures/*
+!data/state-elections/legislatures/README.md
+data/state-elections/synthpops/*
+qgis-project/*
+notes/*
