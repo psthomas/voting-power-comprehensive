@@ -1,0 +1,2 @@
+
+Download the US Census Bureau Tiger Geodatabase, [2018 Legislative Areas National Database](https://www.census.gov/geo/maps-data/data/tiger-geodatabases.html#tab_2018) from this [link](ftp://ftp2.census.gov/geo/tiger/TGRGDB18/tlgdb_2018_a_us_legislative.gdb.zip) and unzip the results into the 2018 directory.  The end result should be a `2018/tlgdb_2018_a_us_legislative.gdb` geodatabase.  
